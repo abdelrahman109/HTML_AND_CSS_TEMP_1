@@ -235,6 +235,7 @@ font-size: 17px;
   color: var(--main-color);
   flex-basis: 60px;
   font-size: 30px;
+  padding: 25px ;
 }
 .services .services-content .srv .text {
   flex: 1;
